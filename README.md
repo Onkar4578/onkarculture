@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [tours and travels platform](https://github.com/Onkar4578/onkarculture)
 
-- 🌱 I’m currently learning **Backend part of MERN stack and python libraries opencv & mediapipe**
+- 🌱 I’m currently learning **Backend part of MEARN stack and python libraries opencv & mediapipe**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Onkar4578](https://github.com/Onkar4578)
 
