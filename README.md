@@ -32,7 +32,7 @@
 
 ## Overview
 
-ExplorX is an innovative app developed for the Smart India Hackathon, addressing problem statement 1486-A. The app aims to revitalize the tourism industry by providing an integrated platform for travelers, hotels, travel agencies, and other related services.
+ExplorX is an innovative app developed for PBL. The app aims to revitalize the tourism industry by providing an integrated platform for travelers, hotels, travel agencies, and other related services.
 
 ## Features
 
@@ -46,13 +46,7 @@ ExplorX is an innovative app developed for the Smart India Hackathon, addressing
 - **Frontend**: Flutter for a seamless, cross-platform mobile experience.
 - **Backend**: Firebase for real-time database management, authentication, and cloud functions.
 - **Machine Learning**: Personalized recommendation engine using TensorFlow.
-- **APIs**: Integration with various travel APIs for flight, hotel, and activity bookings.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ExplorX.git
+- **APIs**: Integration with various travel APIs for flight, hotel, and activity booking.
 
 # Default Readme.md File by Flutter:
 
